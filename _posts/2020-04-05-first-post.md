@@ -16,3 +16,9 @@ To get this far (with some experimentation) I did the following steps.
 6. Edit `_config.yml` file with custom information
 7. Copy the default post in the `_posts` folder, edit it to match what I want, rename it, and delete the original
 8. `git commit -am 'First post'` and `git push`
+
+## References
+
+- <https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages>
+- <https://jekyllrb.com/docs/>
+- <https://pages.github.com/>
