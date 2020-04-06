@@ -23,13 +23,16 @@ email: tocadmin@thinkingoutcode.com
 description: >- # this means to ignore newlines until "baseurl:"
   Thinking Out Code
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.thinkingoutcode.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  tocadmin
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+# Google Analytics
+google_analytics: UA-162782179-1
 
 # Exclude from processing.
 # The following items will not be processed, by default.
